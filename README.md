@@ -11,3 +11,7 @@ Whoiam = ['Developer','Coder']
 ```
 [![telegram badge](https://img.shields.io/badge/CONTACT_ME-30302f?style=flat)](https://t.me/ShadowPKx)
 [![telegram badge](https://img.shields.io/badge/PORTFOLIO-30302f?style=flat)](#)
+
+## Todo :
+- [ ] .
+- [X] .

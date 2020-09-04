@@ -4,7 +4,7 @@
 ![Dyno](https://github.com/ShadowPKx/ShadowPKx/raw/master/dino.gif)
 
 ## About Me :
-```
+```python
 Name = "Oberon Phelonious"
 Nick = "ShadowPKx"
 Whoiam = ['Developer','Coder']

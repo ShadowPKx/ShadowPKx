@@ -28,5 +28,4 @@ Skills = ['HTML','CSS/SCSS','SEO','PHP','Python','SQL','GIT']
     - [X] Base
     - [ ] OOP
     - [ ] Frameworks
-- [ ] Learn Ajax
 - [ ] Read the book "Время" (Г. А. Архангельский)

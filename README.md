@@ -28,7 +28,7 @@ Preferred OS = ['Debian\Parrot Security','OS X\Mac OS']
     - [X] Speak the language 
     - [ ] Grammar / declinations / Past - Present - Future
 - [ ] Learn Python
-    - [X] Base
+    - [ ] Base
     - [ ] OOP
 - [X] Learn PHP
     - [X] Base

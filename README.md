@@ -11,12 +11,18 @@ Nickname = "ShadowPKx"
 Language = ['Russian','English','Ukrainian']
 Whoiam = ['Administrator','Developer','Coder']
 Skills = ['HTML','CSS/SCSS','SEO','PHP','Python','SQL','GIT']
+Superpowers = "Parsing any code"
+Preferred OS = ['Debian\Parrot Security','OS X\Mac OS']
 ```
 [![telegram badge](https://img.shields.io/badge/CONTACT_ME-30302f?style=flat)](https://t.me/ShadowPKx)
+[![telegram badge](https://img.shields.io/badge/WEBSITE-30302f?style=flat)](#)
+[![telegram badge](https://img.shields.io/badge/SERVICES-30302f?style=flat)](#)
 [![telegram badge](https://img.shields.io/badge/PORTFOLIO-30302f?style=flat)](#)
+[![telegram badge](https://img.shields.io/badge/BIOGRAPHY-30302f?style=flat)](#)
+[![telegram badge](https://img.shields.io/badge/RESUME-30302f?style=flat)](#)
 
 ## Todo :
-- [ ] Learn English
+- [X] Learn English
     - [X] Base
     - [X] Understand the language
     - [X] Speak the language 

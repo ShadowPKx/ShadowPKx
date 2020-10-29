@@ -28,4 +28,9 @@ Skills = ['HTML','CSS/SCSS','SEO','PHP','Python','SQL','GIT']
     - [X] Base
     - [ ] OOP
     - [ ] Frameworks
+- [ ] Build a portfolio
+    - [ ] Create portfolio-site
+    - [ ] Create portfolio repository
+- [ ] Write a biography
+    - [ ] Write a resume
 - [ ] Read the book "Время" (Г. А. Архангельский)

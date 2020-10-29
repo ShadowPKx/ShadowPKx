@@ -23,15 +23,15 @@ Preferred OS = ['Debian\Parrot Security','OS X\Mac OS']
 
 ## Todo :
 - [X] Learn English
-    - [X] Base
-    - [X] Understand the language
-    - [X] Speak the language 
+    - [X] ~Base~
+    - [X] ~Understand the language~
+    - [X] ~Speak the language~
     - [ ] Grammar / declinations / Past - Present - Future
 - [ ] Learn Python
     - [ ] Base
     - [ ] OOP
 - [X] Learn PHP
-    - [X] Base
+    - [X] ~Base~
     - [ ] OOP
     - [ ] Frameworks
 - [ ] Build a portfolio

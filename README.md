@@ -10,7 +10,7 @@ Fullname = "Oberon Phelonious"
 Nickname = "ShadowPKx"
 Language = ['Russian','English','Ukrainian']
 Whoiam = ['Administrator','Developer','Coder']
-Skills = ['HTML','CSS/SCSS','SEO','PHP','Python','SQL','GIT']
+Skills = ['HTML','CSS\SCSS','SEO','PHP','Python','SQL','GIT','Apache\Nginx']
 Superpowers = "Parsing any code"
 Preferred OS = ['Debian\Parrot Security','OS X\Mac OS']
 ```

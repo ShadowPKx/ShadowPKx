@@ -34,6 +34,7 @@ Preferred OS = ['Debian\Parrot Security','OS X\Mac OS']
     - [X] ~Base~
     - [ ] OOP
     - [ ] Frameworks
+- [ ] Learn Docker
 - [ ] Build a portfolio
     - [ ] Create portfolio-site
     - [ ] Create portfolio repository

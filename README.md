@@ -10,7 +10,7 @@ Fullname = "Oberon Phelonious"
 Nickname = "ShadowPKx"
 Language = ['Russian','English','Ukrainian']
 Whoami = ['Administrator','Developer','Coder']
-Skills = ['HTML','CSS\SCSS','SEO','PHP','Python','SQL','GIT','Apache\Nginx','BASH']
+Skills = ['HTML','CSS\SCSS','PHP','Python','SQL','GIT','Apache\Nginx', 'Uniti3D / C#']
 Superpowers = "Parsing any code"
 Preferred OS = ['Debian\Parrot Security','OS X\Mac OS']
 ```
@@ -20,24 +20,3 @@ Preferred OS = ['Debian\Parrot Security','OS X\Mac OS']
 [![telegram badge](https://img.shields.io/badge/PORTFOLIO-30302f?style=flat)](#)
 [![telegram badge](https://img.shields.io/badge/BIOGRAPHY-30302f?style=flat)](#)
 [![telegram badge](https://img.shields.io/badge/RESUME-30302f?style=flat)](#)
-
-## Todo :
-- [X] Learn English
-    - [X] ~Base~
-    - [X] ~Understand the language~
-    - [X] ~Speak the language~
-    - [ ] Grammar / declinations / Past - Present - Future
-- [ ] Learn Python
-    - [ ] Base
-    - [ ] OOP
-- [X] Learn PHP
-    - [X] ~Base~
-    - [ ] OOP
-    - [ ] Frameworks
-- [ ] Learn Docker
-- [ ] Build a portfolio
-    - [ ] Create portfolio-site
-    - [ ] Create portfolio repository
-- [ ] Write a biography
-    - [ ] Write a resume
-- [ ] Read the book "Время" (Г. А. Архангельский)

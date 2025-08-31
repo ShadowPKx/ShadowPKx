@@ -13,4 +13,4 @@ Nickname = "ShadowPKx"
 [![telegram badge](https://img.shields.io/badge/PORTFOLIO-30302f?style=flat)](#)
 [![telegram badge](https://img.shields.io/badge/BIOGRAPHY-30302f?style=flat)](#)
 [![telegram badge](https://img.shields.io/badge/RESUME-30302f?style=flat)](#)
-[![telegram badge](https://img.shields.io/badge/ShadowPKx-30302f?style=flat&logo=telegram)](https://t.me/ShadowPKx)
+[![telegram badge](https://img.shields.io/badge/OberonPh-30302f?style=flat&logo=telegram)](https://t.me/OberonPh)

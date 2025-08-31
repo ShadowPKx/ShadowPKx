@@ -7,7 +7,6 @@ Fullname = "Oberon Phelonious"
 Nickname = "ShadowPKx"
 ```
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShadowPKx/&title=Profile%20Views)
 [![telegram badge](https://img.shields.io/badge/WEBSITE-30302f?style=flat)](#)
 [![telegram badge](https://img.shields.io/badge/SERVICES-30302f?style=flat)](#)
 [![telegram badge](https://img.shields.io/badge/PORTFOLIO-30302f?style=flat)](#)

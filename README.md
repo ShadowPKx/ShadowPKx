@@ -3,7 +3,7 @@
 
 ## About Me :
 ```python
-Fullname = "Oberon Phelonious"
+Fullname = "Oberon Ph"
 Nickname = "ShadowPKx"
 ```
 
